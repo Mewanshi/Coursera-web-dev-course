@@ -7,7 +7,7 @@ html,body{
 .heading{
 	text-align: center;
 	font-size: 175%;
-	padding: 50px;
+	padding: 30px;
 }
 p{
 padding: 20px;
@@ -71,9 +71,7 @@ float: left;
 width:100%;
 float: left;
 }
-.heading{
-	padding: 0px;
-}
+
 }
 @media(max-width: 767px){
 
@@ -89,8 +87,6 @@ float: left;
 width:100%;
 float: left;
 }
-.heading{
-	padding: 0px;
-}
+
 
 }
