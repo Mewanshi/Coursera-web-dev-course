@@ -2,12 +2,12 @@ html,body{
 	margin: 0px;
 	padding: 0px;
 	font-family: Arial, Helvetica, sans-serif;
-	width: border-box;
+	
 }
 .heading{
 	text-align: center;
 	font-size: 175%;
-	padding: 50px;
+	padding: 30px;
 }
 p{
 padding: 20px;
@@ -15,14 +15,14 @@ clear: right;
 }
 .section-title{
 	float: right;
-	border-left: 2px solid #000000;
-	border-bottom: 2px solid #000000;
+	border-left: 1px solid #000000;
+	border-bottom: 1px solid #000000;
 	width: 30%;
 }
 .section{
 	background-color: #909090;
 	margin:20px;
-	border: 2px solid #000000
+	border: 1px solid #000000
 }
 .row{
 	width:100%;
@@ -71,9 +71,7 @@ float: left;
 width:100%;
 float: left;
 }
-.heading{
-	padding: 0px;
-}
+
 }
 @media(max-width: 767px){
 
@@ -89,8 +87,6 @@ float: left;
 width:100%;
 float: left;
 }
-.heading{
-	padding: 0px;
-}
+
 
 }
