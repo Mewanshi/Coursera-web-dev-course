@@ -1,0 +1,43 @@
+body{
+    background-color:#e2bb0b;
+    font-family: 'Liu Jian Mao Cao', cursive;
+}
+#header-nav{
+    background-color: #720808;
+}
+
+.navbar-default{
+    border-color:#720808;
+    border-radius: 0%;
+}
+.navbar-default .navbar-nav >li>a{
+    text-align: center;
+    font-size: 1.50em;
+    color:#e2bb0b;
+}
+@media (max-width: 768px) {
+    .container {
+      width: 75%;
+    }
+  }
+.navbar-default .navbar-toggle,.navbar-default .navbar-brand{
+    color: #e2bb0b;
+    border-color: #e2bb0b;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color:#e2bb0b;
+}
+#heading{
+    color: #720808;
+}
+.section-box{
+    min-height: 1000px;
+    background-color: #d82c3b;
+    padding: 0px 20px ;
+}
+.section-box p,.section-box h3{
+    color:#ffffff;
+}
+hr{
+    margin: 0;
+}
